@@ -4,6 +4,7 @@ DataCamp Projects
 1. Predicting Credit Card Approvals
 * Build a machine learning model to predict if a credit card application will get approved
 
+
 2. The Android App Market on Google Play
 * Load, clean, and visualize scraped Google Play Store data to understand the Android app market
 
